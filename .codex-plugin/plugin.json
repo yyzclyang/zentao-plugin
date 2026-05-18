@@ -1,0 +1,20 @@
+{
+  "name": "zentao",
+  "version": "0.1.0",
+  "description": "禅道集成工具",
+  "interface": {
+    "displayName": "Zentao",
+    "shortDescription": "禅道问题处理辅助工具",
+    "longDescription": "为禅道相关的缺陷处理和协作场景提供技能入口，便于在编码流程中直接调用。",
+    "developerName": "yyzcl yang",
+    "websiteURL": "https://github.com/yyzclyang/zentao-plugin"
+  },
+  "author": {
+    "name": "yyzcl yang",
+    "email": "yyzclyang@gmail.com"
+  },
+  "homepage": "https://github.com/yyzclyang/zentao-plugin",
+  "repository": "https://github.com/yyzclyang/zentao-plugin",
+  "license": "MIT",
+  "skills": "./skills/"
+}

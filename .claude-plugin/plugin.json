@@ -1,0 +1,13 @@
+{
+  "name": "zentao",
+  "description": "禅道集成工具",
+  "version": "0.1.0",
+  "author": {
+    "name": "yyzcl yang",
+    "email": "yyzclyang@gmail.com"
+  },
+  "homepage": "https://github.com/yyzclyang/zentao-plugin",
+  "repository": "https://github.com/yyzclyang/zentao-plugin",
+  "license": "MIT",
+  "skills": "./skills/"
+}
